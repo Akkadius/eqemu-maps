@@ -1,0 +1,9 @@
+{
+	"paths": {
+		"base": "../../base/",
+		"project": "project/",
+		"nav": "../../nav/",
+		"water": "../../water/",
+		"volume": "../../volume/"
+	}
+}
