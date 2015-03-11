@@ -1,0 +1,84 @@
+EqEmulator Maps (Started May 4th, 2009)
+-----------------------------------------------------
+==1/04/2011==
+Happy New Year! If you don't see any NPCs, set all NPC z-coords to 3, then #summon and #spawnfix :).
+
+==10/23/2010==
+Derision: Added hateplane.path from Brewhaus.
+
+==12/30/2009==
+Trevius: Added placeable objects to maps for crescent, dreadspire, freeporttemple, roost, stonehive, and takishruins
+
+==10/25/2009==
+leslamarch: Updated mistmoore.path map.
+
+==812/2009==
+cavedude: Added Old maps folder and included previous versions of arena, bazaar, lavastorm, and nektulos.
+
+==6/29/2009==
+cavedude: Updated bazaar.
+
+==6/28/2009==
+cavedude: Added the first of Derision's path maps (bazaar, poknowledge, ssratemple, and unrest)
+
+==6/09/2009==
+Angelox: Updated North and East Karana
+
+==6/08/2009==
+Angelox: Re-did West Karana
+
+==6/07/2009==
+Angelox: Re-did Frozeshadow
+
+==5/29/2009==
+Asram: Re-did Lavastorm in hopes of improving fear pathing
+
+==5/11/2009==
+Angelox: Re-did Najena 
+
+==5/17/2009==
+Asram: Added placeoble objects pathing for akanon, arena, bothunder, everfrost, mistmoore, misty, nektulos, netherbian, and nro.
+
+==5/16/2009==
+Asram: Re-did Feerrott, Stonebrunt, Hateplane, and Hateplaneb (whew! big file)
+
+==5/11/2009==
+Angelox: Re-did Gfaydark 
+
+==5/10/2009==
+Angelox: Re-did Tutorialb 
+
+==5/7/2009==
+Asram: Added placeable objects to maps for beholder, blackburrow, bloodfields, broodlands, burningwood, cabeast, cabwest, cobaltscar, commons, dalnir, dawnshroud, droga, and kedge
+
+==5/06/2009==
+Asram: Added placeable object to airplane, akheva, cazicthule, qcat and qeytoqrg server maps
+Asram: Added placeable objects to befallen, cauldron, charasis, chardok, chardokb, citymist, butcher
+
+==5/05/2009==
+Angelox: Rest of bulk upload of files as of package posted on March 24th 2009. (r3)
+Please update the azone.ini file too!
+Here's a list of Maps already detailed;
+tox
+tutorialb
+anguish
+lakeofillomen
+thundercrest
+skyfire
+gfaydark
+frontiermtns
+eastwastes
+najena
+crushbone
+unrest
+hollowshade
+crystal
+greatdivide
+soldunga
+soldungb
+kerraridge (This one is new, you should get it)
+
+Cavedude: Added some missing water maps (r8)
+
+Asram: Added Erudin entrance placeable object to tox (r6)
+Asram: Updated maps for placeable objects: lavastorm, paineel, tenebrous, warrens, steamfont, and sro (r7-10)  
