@@ -77,7 +77,7 @@ sub convert_zones {
 
 	print "Found (" . $convert_count . ") maps to generate... Building...\n";
 	
-	print `azone $build_files > nul`;
+	print `./azone $build_files > nul`;
 }
 
 sub load_zones {
