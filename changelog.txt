@@ -1,5 +1,8 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==5/28/2018==
+Akkadius: Changelog test
+
 ==1/04/2011==
 Happy New Year! If you don't see any NPCs, set all NPC z-coords to 3, then #summon and #spawnfix :).
 
