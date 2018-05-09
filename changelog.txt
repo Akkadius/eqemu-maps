@@ -1,6 +1,10 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
-==5/28/2018==
+
+==05/09/2018== Trust: Added project folder to save zone specific 
+settings. Added new zone nav files.
+
+==05/08/2018==
 Akkadius: Changelog test
 
 ==1/04/2011==
