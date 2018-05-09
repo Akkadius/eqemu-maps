@@ -3,6 +3,8 @@ EqEmulator Maps (Started May 4th, 2009)
 
 ==05/09/2018== Trust: Added project folder to save zone specific 
 settings. Added new zone nav files.
+Trust: Added New zone navs and prj files. Updated Commons to exclude lower zone mesh.
+
 
 ==05/08/2018==
 Akkadius: Changelog test
