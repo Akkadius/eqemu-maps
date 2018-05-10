@@ -1,6 +1,19 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
-==5/28/2018==
+
+==05/10/2018==
+Trust: Fixed some navs that had un-needed underworld complexity. Added more
+prj files.
+Started conversion on later era zones.
+Added all Freeport zones
+
+==05/09/2018== 
+Trust: Added project folder to save zone specific 
+settings. Added new zone nav files.
+Trust: Added New zone navs and prj files. Updated Commons to exclude lower zone mesh.
+
+
+==05/08/2018==
 Akkadius: Changelog test
 
 ==1/04/2011==
