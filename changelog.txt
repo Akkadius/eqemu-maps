@@ -1,6 +1,9 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
 
+==05/20/2018==
+Trust: Updated HoHonorA to avoid bushes as pathable terrain. Added jump points for some sections.
+
 ==05/10/2018==
 Trust: Fixed some navs that had un-needed underworld complexity. Added more
 prj files.
