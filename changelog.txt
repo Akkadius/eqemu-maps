@@ -1,6 +1,9 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
 
+==09/07/2018==
+Trust: Updated Guktop and Sirens for all connections.
+
 ==05/20/2018==
 Trust: Updated HoHonorA to avoid bushes as pathable terrain. Added jump points for some sections.
 
