@@ -1,6 +1,10 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
 
+==09/08/2018==
+Trust: Updated PoJustice to include prefered pathing and portals in 
+mauvin area.
+
 ==09/07/2018==
 Trust: Updated Guktop and Sirens for all connections.
 
