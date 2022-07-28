@@ -3,7 +3,7 @@ Maps in EQEmu are used to do many things, we have different files that are respo
 # File Structure
 
 * maps/base/zoneshortname.map
-* maps/nav/zoneshortname.nav
+* **maps/nav/zoneshortname.nav**
 * maps/water/zoneshortname.wtr
 * maps/path/zoneshortname.path (Deprecated)
 
@@ -33,14 +33,6 @@ From [[Maps Introduction]]
 * Navmesh is modern navigation mesh technology, we use it server side to determine shortest path to a target in NPC AI decision making processes, it's what the server uses to determine what NPC's can walk on and they will strictly adhere to this mesh when making pathing decisions. The end result is a very smooth path-making decisions
 * Example of this in game: https://www.youtube.com/watch?v=ujtqipXAP1E
 * Another explanation of Navmesh on [Stack Overflow](https://gamedev.stackexchange.com/a/15395)
-
-# File Structure
-
-* maps/base/zoneshortname.map
-* **maps/nav/zoneshortname.nav**
-* maps/water/zoneshortname.wtr
-* maps/volume/zoneshortname.wtr
-* maps/project/zoneshortname.navprj
 
 # Creation Example
 
