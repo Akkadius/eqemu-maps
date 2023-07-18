@@ -1,5 +1,8 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==7-20-2023==
+Akkadius: Fix for Airplane
+
 ==08-27-2019==
 Trust: Added burningwood as it was missing. Basic Mesh.
 
@@ -19,7 +22,7 @@ Trust: Updated Nav for PoEarthA and PoEarthB
 Trust: Updated WTR and NAV for zone Xorbb
 
 ==09/08/2018==
-Trust: Updated PoJustice to include prefered pathing and portals in 
+Trust: Updated PoJustice to include prefered pathing and portals in
 mauvin area.
 
 ==09/07/2018==
@@ -34,8 +37,8 @@ prj files.
 Started conversion on later era zones.
 Added all Freeport zones
 
-==05/09/2018== 
-Trust: Added project folder to save zone specific 
+==05/09/2018==
+Trust: Added project folder to save zone specific
 settings. Added new zone nav files.
 Trust: Added New zone navs and prj files. Updated Commons to exclude lower zone mesh.
 
@@ -77,7 +80,7 @@ Angelox: Re-did Frozeshadow
 Asram: Re-did Lavastorm in hopes of improving fear pathing
 
 ==5/11/2009==
-Angelox: Re-did Najena 
+Angelox: Re-did Najena
 
 ==5/17/2009==
 Asram: Added placeoble objects pathing for akanon, arena, bothunder, everfrost, mistmoore, misty, nektulos, netherbian, and nro.
@@ -86,10 +89,10 @@ Asram: Added placeoble objects pathing for akanon, arena, bothunder, everfrost, 
 Asram: Re-did Feerrott, Stonebrunt, Hateplane, and Hateplaneb (whew! big file)
 
 ==5/11/2009==
-Angelox: Re-did Gfaydark 
+Angelox: Re-did Gfaydark
 
 ==5/10/2009==
-Angelox: Re-did Tutorialb 
+Angelox: Re-did Tutorialb
 
 ==5/7/2009==
 Asram: Added placeable objects to maps for beholder, blackburrow, bloodfields, broodlands, burningwood, cabeast, cabwest, cobaltscar, commons, dalnir, dawnshroud, droga, and kedge
@@ -124,4 +127,4 @@ kerraridge (This one is new, you should get it)
 Cavedude: Added some missing water maps (r8)
 
 Asram: Added Erudin entrance placeable object to tox (r6)
-Asram: Updated maps for placeable objects: lavastorm, paineel, tenebrous, warrens, steamfont, and sro (r7-10)  
+Asram: Updated maps for placeable objects: lavastorm, paineel, tenebrous, warrens, steamfont, and sro (r7-10)
